@@ -57,10 +57,9 @@
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 </br>
 
-### 😇 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Richie-Nature&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richie-Nature&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=haelmj&theme=dracula&title=Followers,Issues,Commit,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+### 😇 GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Richie-Nature&show_icons=true&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Richie-Nature&theme=tokyonight)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Richie-Nature&theme=dracula&title=Followers,Issues,Commit,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 
