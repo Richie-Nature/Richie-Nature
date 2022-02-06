@@ -17,7 +17,7 @@
 
 ### 🎧 Now playing
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=erqx27anrqs0ougdwwrag4w5k&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=erqx27anrqs0ougdwwrag4w5k&cover_image=true&theme=default&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erqx27anrqs0ougdwwrag4w5k&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ### 🎤 Reach out!
 
@@ -57,8 +57,10 @@
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 </br>
 
+---
+
 ### 😇 GitHub Stats
- [![Imoh's Github Stats](https://github-readme-stats.vercel.app/api?username=Richie-Nature&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Imoh's Github Stats](https://github-readme-stats.vercel.app/api?username=Richie-Nature&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Richie-Nature&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Richie-Nature&theme=dracula&title=Followers,Issues,Commit,PullRequest,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
