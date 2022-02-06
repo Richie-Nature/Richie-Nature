@@ -17,7 +17,7 @@
 
 ### 🎧 Now playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erqx27anrqs0ougdwwrag4w5k&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=erqx27anrqs0ougdwwrag4w5k&cover_image=true&theme=default)](https://open.spotify.com/user/erqx27anrqs0ougdwwrag4w5k?si=645586e566034863)
 
 ### 🎤 Reach out!
 
@@ -56,7 +56,7 @@
 <img align="left" alt="Maven" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 </br>
-
+</br>
 ---
 
 ### 😇 GitHub Stats
