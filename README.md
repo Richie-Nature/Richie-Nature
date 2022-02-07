@@ -12,7 +12,7 @@
 - 📫 How to reach me **imohobot.dev@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/imoh-o-obot/](https://www.linkedin.com/in/imoh-o-obot/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm curious to know how everything works 😅 and I most definitely LOVEE nature!!😃
+- ⚡ Fun fact: I'm curious to know how everything works 😅 and I most definitely LOVEE nature & the smell of grass!!😃
 
 
 ### 🎧 Now playing
